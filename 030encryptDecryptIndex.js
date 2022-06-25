@@ -1,4 +1,4 @@
-const { encryptText, decryptText } = require('./cipher');
+const { encryptText, decryptText } = require('./029encryptDecryptBase');
 
 const SALT = 'bRST$#fg45SDR443r4$$';
 
